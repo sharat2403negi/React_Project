@@ -1,0 +1,111 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+.footerdiv{
+    width: 100%;
+    height: 35vh;
+    background-color: #0A2541;
+    display: flex;
+    justify-content: center;
+}
+
+.footerlogo{
+    width: 20%;
+    height: 35vh;
+    color: #fff;
+   
+ 
+}
+.footer{
+    width: 26%;
+    height: 35vh;
+}
+.footer1{
+    width: 28%; height: 35vh;
+}
+.footerlogo img{
+    width: 200px;
+    margin: 50px 0 0 80px;
+}
+.footerlogo h4{
+    padding-left: 58px;
+    font-size: 23px;
+}
+.uldiv{
+    list-style: none;
+    color: #fff;
+    padding: 20px 0 20px 25px;
+    font-size: 18px;
+}
+.uldiv li{
+    margin-top: 10px;
+}
+.uldiv li :hover{
+    color: orange;
+    text-decoration: solid orange underline 2px;
+}
+.kya{
+    color: #ffff;
+    padding: 0 0 0 15px;
+} 
+
+.divicon{
+    width: 100%;
+    height: 100px;
+   display: flex;
+   cursor: pointer;
+}
+
+.fb{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin:  5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linediv{
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+}
+.lastdiv{
+    width: 100vw;
+    height: 15vh;
+    background-color: #0A2541;
+   
+    color: #fff;
+   
+}
+
+.lastdiv h3{
+    color: #fff;
+   padding-top: 20px;
+    
+}
+.line1{
+    width: 150px;
+    height: 2px;
+    background-color: #FF8E02;
+    position: relative;
+    left: 890px;
+}
+.lastul{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 20px;
+    
+}
+.lastul li{
+    list-style: none;
+    float: left;
+    font-size: 14px;
+    padding-top: 5px;
+}
+.lasth{
+    padding-top: 20px;
+}
